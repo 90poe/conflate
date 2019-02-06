@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/miracl/conflate"
+	"github.com/90poe/conflate"
 	"io/ioutil"
 	"os"
 	"strings"
